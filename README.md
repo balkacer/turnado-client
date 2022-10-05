@@ -1,2 +1,2 @@
 # Turnado Client
-Turnado App in React Native.
+Turnado App for Client
